@@ -1,0 +1,1 @@
+SELECT "english_title", "artist", MAX("brightness") AS 'Maximum Brightness' FROM "views";
