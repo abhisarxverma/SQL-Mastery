@@ -28,3 +28,16 @@ WHERE "id" IN (
   )
 )
 ORDER BY "last_name" ASC;
+
+/*
+┌────────────┬──────────────┐
+│ first_name │  last_name   │
+├────────────┼──────────────┤
+│ Torii      │ Hunter       │
+│ Paul       │ Lo Duca      │
+│ Terrence   │ Long         │
+│ Doug       │ Mientkiewicz │
+│ Albert     │ Pujols       │
+│ Aramis     │ Ramirez      │
+└────────────┴──────────────┘
+*/
